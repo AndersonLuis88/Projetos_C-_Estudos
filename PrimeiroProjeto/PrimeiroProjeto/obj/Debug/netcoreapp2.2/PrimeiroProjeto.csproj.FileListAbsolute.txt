@@ -1,0 +1,4 @@
+C:\Users\Home\Documents\GitHub\New_proj\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp2.2\PrimeiroProjeto.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\GitHub\New_proj\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp2.2\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\GitHub\New_proj\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp2.2\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\GitHub\New_proj\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp2.2\PrimeiroProjeto.AssemblyInfo.cs
