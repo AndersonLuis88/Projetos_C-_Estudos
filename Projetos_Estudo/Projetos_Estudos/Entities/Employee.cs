@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 using System;
-namespace Projetos_Estudos.Entities
+namespace Projeto_IComparable.Entities
 {
     class Employee : IComparable
     {

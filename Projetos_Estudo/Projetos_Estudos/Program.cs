@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using Projetos_Estudos.Entities;
+using Projeto_IComparable.Entities;
 
-namespace Projetos_Estudos
+namespace Projeto_IComparable
 {
     class Program
     {
