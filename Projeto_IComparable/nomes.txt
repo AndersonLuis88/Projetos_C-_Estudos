@@ -1,0 +1,10 @@
+Ana Maria,2000.00
+Maria Júlia,2000.00
+Marcos Oliveira,2000.00
+Denis Macedo,2000.00
+Elis Monteiro,2000.00
+Helena Silva,2000.00
+Heitor Lobato,2000.00
+Joana Prado,2000.00
+Jonas Brasil,2000.00
+Mariana Antunes,2000.00
