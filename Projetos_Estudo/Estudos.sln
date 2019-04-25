@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto_IComparable", "Projetos_Estudos\Projeto_IComparable.csproj", "{0D30FFCC-9F20-48A7-8663-CD919D7BCD3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto_IComparable", "Projetos_Estudos\Projeto_IComparable.csproj", "{0D30FFCC-9F20-48A7-8663-CD919D7BCD3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension_Method", "Extension_Method\Extension_Method.csproj", "{7CC16769-401C-4A88-899C-AB498D32C211}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0D30FFCC-9F20-48A7-8663-CD919D7BCD3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D30FFCC-9F20-48A7-8663-CD919D7BCD3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D30FFCC-9F20-48A7-8663-CD919D7BCD3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CC16769-401C-4A88-899C-AB498D32C211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC16769-401C-4A88-899C-AB498D32C211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC16769-401C-4A88-899C-AB498D32C211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC16769-401C-4A88-899C-AB498D32C211}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
