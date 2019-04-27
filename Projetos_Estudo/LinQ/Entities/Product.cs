@@ -10,6 +10,12 @@ namespace LinQ.Entities
         public double  Price { get; set; }
         public Category Category { get; set; }
 
+        public Product(string name, double price)
+        {
+            Name = name;
+            Price = price;
+        }
+
         public override string ToString()
         {
             return Id
