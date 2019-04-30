@@ -17,9 +17,9 @@ namespace SalesWebMVC.Services
             _context = context;
         }
 
-        public async Task<List<Department>> FindAllAsync()
+        public List<Department> FindAll()
         {
-            return await _context.Department.OrderBy(x => x.Name).ToListAsync();
+            return _context.Department.OrderBy(x => x.Name).ToList();
         }
     }
 }
